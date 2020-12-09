@@ -1,0 +1,59 @@
+Sistemas enteros y Punto fijo
+??Apunte 1 de Cátedra
+??Operaciones lógicas
+??Apunte 3 de Cátedra
+??Apéndice 8A: Sistemas de Numeración
+??Stallings, 5ta Ed.
+??Apéndice A: Lógica digital (A.1., A.2.)
+??Stallings, 5ta Ed.
+??Capítulo 3: Lógica digital y representación numérica
+??Apuntes COC -Ingreso 2009
+
+
+??Capítulo 8: Aritmética del computador (8.1., 8.2., 8.3.)
+??Stallings, 5ta Ed.
+??Sistemas enteros y Punto fijo
+??Apunte 1 de Cátedra
+??Capítulo 3: Lógica digital y representación numérica
+??Apuntes COC -Ingreso 2009
+
+
+??Operaciones Lógicas
+??Apunte 3 de Cátedra
+??Circuitos Secuenciales
+??Apunte 5 de Cátedra
+??Apéndice A: Lógica digital (A.3., A.4.)
+??Stallings, 5ta Ed.
+
+??Punto flotante
+??Apunte 2 de Cátedra
+??Capítulo 8: Aritmética del computador (8.4., 8.5.)
+??Stallings, 5ta Ed.
+
+??Capítulo 1: Introducción (1.1. y 1.2)
+??Capítulo 2: Evolución y prestaciones de los computadores
+??Capítulo 3: Buses del sistema (3.1. y 3.3.)
+??Stallings, 5ta ed.
+
+??Capítulo 3 apartado 3.2.
+??Capítulo 11 apartados 11.1. y 11.3.
+??Stallings. 5ta Ed.
+
+??Capítulo 9: características y funciones
+??Capítulo 10: modos de direccionamiento y formatos
+??Apéndice 9A: Pilas
+??Stallings. 5ta Ed.
+??Lenguaje Assembly
+??Apunte 4 de cátedra
+
+??Organización de los registros
+??Capítulo 11 apartado 11.2. Stallings. 5ta Ed.
+??Formatos de instrucciones
+??Capítulo 10 apartado 10.3. y 10.4. Stallings. 5ta Ed.
+
+??Capítulo 4: Memoria Interna
+??Stallings. 5ta Ed.
+
+??Capítulo 5: Memoria Externa
+??Stallings. 5ta Ed.
+
