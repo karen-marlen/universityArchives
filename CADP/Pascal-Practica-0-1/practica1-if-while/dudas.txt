@@ -1,0 +1,3 @@
+1) En el ejercicio 9, para leer los caracteres use 3 read(); consecutivos, osea un read() por cada caracter, cada uno en lineas separadas. 
+El programa me leia el primer caracter, y el segundo caracter lo leia automaticamente sin que le ingrese nada por teclado. Como si leyera un espacio o un retorno, solo. 
+La unica solucion fue poner todos readln. 
